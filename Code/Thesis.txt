@@ -1,0 +1,30 @@
+Thesis Topic: Extract information/Develop Text blocks from Business Reports
+
+- Send Exposie(statement of work) - list of deliverable
+
+1- Explore Different strartergies of text based infomration from businnes reports
+
+- Search Elastic
+
+- Search Feature rich library
+
+https://medium.com/analytics-vidhya/python-packages-for-pdf-data-extraction-d14ec30f0ad0 
+PDFminer — Preserves the structure of PDF file text but not the table structure.
+PDFtoText — Comparatively most preferred as it preserves table and original structure
+
+lableing of text annotation
+
+- Use of Table of contents, abstract, summary
+
+OCR (Important)
+NLP
+html, xml,
+
+styling information - bold informtaion
+Idea - Take important infomrtaion bold
+
+- library providing header and footer, important for text to separate 
+- get the links
+ 
+1- Extraction
+2- Cleansing
